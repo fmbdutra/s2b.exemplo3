@@ -2,8 +2,8 @@
  * Fabiano Dutra
  * S2B 2018/1
  * TDD exemple - Test Driven Development
+ * Exam scores system
  */
-
 
 package pucrs.s2b20181.exemplo03;
 
@@ -21,8 +21,7 @@ public class Grade {
 		else {
 			return "Reproved";
 		}
-		
-			
+				
 	}
 
 }
