@@ -1,8 +1,5 @@
-# s2b.exemplo3
+# tdd-exemple-s2b
 
-Exemplo 3
+- Microsoft Students to Business (S2B) 2018/1 - PUCRS
 
-
-Students to Business (S2B) 2018/1
-
-Exemplo de desenvolvimento a partir da técnica - TDD (Test Driver Development - Desenvolvimento dirigido por testes)
+Exemplo de desenvolvimento a partir da técnica TDD (Test Driver Development - Desenvolvimento dirigido por testes)
