@@ -14,14 +14,10 @@ public class Grade {
 		double score = (s1+s2)/2.0;
 		if (score >= 7.0) {
 			return "Approved";
-		}
-		else if (score >= 4.0) {
+		}else if (score >= 4.0) {
 			return "In Exam";
-		}
-		else {
+		}else {
 			return "Reproved";
-		}
-				
+		}				
 	}
-
 }
