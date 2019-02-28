@@ -1,4 +1,4 @@
-# tdd-exemple-s2b
+# tdd-exemple
 
 - Microsoft Students to Business (S2B) 2018/1 - PUCRS
 
